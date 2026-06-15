@@ -9,17 +9,17 @@
   <currency id="BYN" rate="1"/>
 </currencies>
 <categories>
-  <category id="1">Цветы — Букеты из роз</category>
-  <category id="2">Цветы — Букеты сборные</category>
-  <category id="3">Цветы — Монобукеты</category>
-  <category id="4">Цветы — Композиции в коробках</category>
-  <category id="5">Цветы — Корзины цветов</category>
+  <category id="1">Букеты из роз</category>
+  <category id="2">Букеты сборные</category>
+  <category id="3">Монобукеты</category>
+  <category id="4">Композиции в коробках</category>
+  <category id="5">Корзины цветов</category>
 </categories>
 <delivery-options>
   <option cost="25" days="0" order-before="20"/>
 </delivery-options>
 <offers>
-  <offer id="1">
+  <offer id="1" available="true">
     <url>https://doliana-cveti.by/product/buket-tayna-sada</url>
     <price>111</price>
     <currencyId>BYN</currencyId>
@@ -30,9 +30,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="2">
+  <offer id="2" available="true">
     <url>https://doliana-cveti.by/product/buket-tayniy-potseluy</url>
     <price>111</price>
     <currencyId>BYN</currencyId>
@@ -43,9 +42,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="3">
+  <offer id="3" available="true">
     <url>https://doliana-cveti.by/product/buket-barhatnaya-negnost</url>
     <price>111</price>
     <currencyId>BYN</currencyId>
@@ -56,9 +54,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="4">
+  <offer id="4" available="true">
     <url>https://doliana-cveti.by/product/buket-beliy-priliv</url>
     <price>111</price>
     <currencyId>BYN</currencyId>
@@ -69,9 +66,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="5">
+  <offer id="5" available="true">
     <url>https://doliana-cveti.by/product/buket-zvezdnaya-noch</url>
     <price>995</price>
     <currencyId>BYN</currencyId>
@@ -82,9 +78,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="6">
+  <offer id="6" available="true">
     <url>https://doliana-cveti.by/product/buket-podarok-vdohnoveniya</url>
     <price>250</price>
     <currencyId>BYN</currencyId>
@@ -95,9 +90,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="7">
+  <offer id="7" available="true">
     <url>https://doliana-cveti.by/product/buket-sladkiy-veter</url>
     <price>155</price>
     <currencyId>BYN</currencyId>
@@ -108,9 +102,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="8">
+  <offer id="8" available="true">
     <url>https://doliana-cveti.by/product/buket-slivochniy-buket</url>
     <price>625</price>
     <currencyId>BYN</currencyId>
@@ -121,9 +114,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="9">
+  <offer id="9" available="true">
     <url>https://doliana-cveti.by/product/buket-shepot-rozovih-oblakov</url>
     <price>415</price>
     <currencyId>BYN</currencyId>
@@ -134,9 +126,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="10">
+  <offer id="10" available="true">
     <url>https://doliana-cveti.by/product/buket-roskosh-emotsiy</url>
     <price>260</price>
     <currencyId>BYN</currencyId>
@@ -147,9 +138,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="11">
+  <offer id="11" available="true">
     <url>https://doliana-cveti.by/product/buket-negniy-rassvet</url>
     <price>232</price>
     <currencyId>BYN</currencyId>
@@ -160,9 +150,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="12">
+  <offer id="12" available="true">
     <url>https://doliana-cveti.by/product/buket-svegee-utro</url>
     <price>184</price>
     <currencyId>BYN</currencyId>
@@ -173,9 +162,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="13">
+  <offer id="13" available="true">
     <url>https://doliana-cveti.by/product/buket-magiya-svidaniya</url>
     <price>233</price>
     <currencyId>BYN</currencyId>
@@ -186,9 +174,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="14">
+  <offer id="14" available="true">
     <url>https://doliana-cveti.by/product/buket-iz-belih-roz-skandinavskaya-skazka</url>
     <price>233</price>
     <currencyId>BYN</currencyId>
@@ -199,9 +186,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="15">
+  <offer id="15" available="true">
     <url>https://doliana-cveti.by/product/buket-iziskanniy-shik</url>
     <price>265</price>
     <currencyId>BYN</currencyId>
@@ -212,9 +198,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="16">
+  <offer id="16" available="true">
     <url>https://doliana-cveti.by/product/buket-51-ottenok-negnosti</url>
     <price>421</price>
     <currencyId>BYN</currencyId>
@@ -225,9 +210,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="17">
+  <offer id="17" available="true">
     <url>https://doliana-cveti.by/product/buket-rayskoe-utro</url>
     <price>176</price>
     <currencyId>BYN</currencyId>
@@ -238,9 +222,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="18">
+  <offer id="18" available="true">
     <url>https://doliana-cveti.by/product/buket-krilya-lyubvi</url>
     <price>230</price>
     <currencyId>BYN</currencyId>
@@ -251,9 +234,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="19">
+  <offer id="19" available="true">
     <url>https://doliana-cveti.by/product/buket-solnechnaya-gratsiya</url>
     <price>106</price>
     <currencyId>BYN</currencyId>
@@ -264,9 +246,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="20">
+  <offer id="20" available="true">
     <url>https://doliana-cveti.by/product/buket-magiya-prikosnoveniy-101-krasnya-roza</url>
     <price>1122</price>
     <currencyId>BYN</currencyId>
@@ -277,9 +258,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="21">
+  <offer id="21" available="true">
     <url>https://doliana-cveti.by/product/buket-tropinka-k-serdtsu-51-roza</url>
     <price>610</price>
     <currencyId>BYN</currencyId>
@@ -290,9 +270,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="22">
+  <offer id="22" available="true">
     <url>https://doliana-cveti.by/product/buket-alie-grezi</url>
     <price>1169</price>
     <currencyId>BYN</currencyId>
@@ -303,9 +282,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="23">
+  <offer id="23" available="true">
     <url>https://doliana-cveti.by/product/buket-aromat-schastya</url>
     <price>83</price>
     <currencyId>BYN</currencyId>
@@ -316,9 +294,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="24">
+  <offer id="24" available="true">
     <url>https://doliana-cveti.by/product/buket-tsvetochnaya-fantaziya</url>
     <price>90</price>
     <currencyId>BYN</currencyId>
@@ -329,9 +306,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="25">
+  <offer id="25" available="true">
     <url>https://doliana-cveti.by/product/buket-barhatniy-vecher</url>
     <price>175</price>
     <currencyId>BYN</currencyId>
@@ -342,9 +318,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="26">
+  <offer id="26" available="true">
     <url>https://doliana-cveti.by/product/buket-iz-roz-freedom</url>
     <price>314</price>
     <currencyId>BYN</currencyId>
@@ -355,9 +330,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="27">
+  <offer id="27" available="true">
     <url>https://doliana-cveti.by/product/buket-tsvetochniy-shelk</url>
     <price>149</price>
     <currencyId>BYN</currencyId>
@@ -368,9 +342,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="28">
+  <offer id="28" available="true">
     <url>https://doliana-cveti.by/product/buket-vechernyaya-roskosh</url>
     <price>75</price>
     <currencyId>BYN</currencyId>
@@ -381,9 +354,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="29">
+  <offer id="29" available="true">
     <url>https://doliana-cveti.by/product/buket-dihanie-leta</url>
     <price>205</price>
     <currencyId>BYN</currencyId>
@@ -394,9 +366,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="30">
+  <offer id="30" available="true">
     <url>https://doliana-cveti.by/product/buket-utrenniy-kapriz</url>
     <price>145</price>
     <currencyId>BYN</currencyId>
@@ -407,9 +378,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="31">
+  <offer id="31" available="true">
     <url>https://doliana-cveti.by/product/buket-schaste-v-dvuh-serdtsah</url>
     <price>165</price>
     <currencyId>BYN</currencyId>
@@ -420,9 +390,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="32">
+  <offer id="32" available="true">
     <url>https://doliana-cveti.by/product/buket-nebesnaya-garmoniya</url>
     <price>218</price>
     <currencyId>BYN</currencyId>
@@ -433,9 +402,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="33">
+  <offer id="33" available="true">
     <url>https://doliana-cveti.by/product/buket-rayskiy-sad</url>
     <price>253</price>
     <currencyId>BYN</currencyId>
@@ -446,9 +414,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="34">
+  <offer id="34" available="true">
     <url>https://doliana-cveti.by/product/buket-tsvetochniy-shepot</url>
     <price>154</price>
     <currencyId>BYN</currencyId>
@@ -459,9 +426,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="35">
+  <offer id="35" available="true">
     <url>https://doliana-cveti.by/product/buket-oblachko-negnosti</url>
     <price>145</price>
     <currencyId>BYN</currencyId>
@@ -472,9 +438,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="36">
+  <offer id="36" available="true">
     <url>https://doliana-cveti.by/product/buket-pudrowaya-fantasia</url>
     <price>110</price>
     <currencyId>BYN</currencyId>
@@ -485,9 +450,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="37">
+  <offer id="37" available="true">
     <url>https://doliana-cveti.by/product/buket-tsvetochniy-eliksir</url>
     <price>83</price>
     <currencyId>BYN</currencyId>
@@ -498,9 +462,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="38">
+  <offer id="38" available="true">
     <url>https://doliana-cveti.by/product/buket-gemchugina</url>
     <price>189</price>
     <currencyId>BYN</currencyId>
@@ -511,9 +474,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="39">
+  <offer id="39" available="true">
     <url>https://doliana-cveti.by/product/buket-letnyaya-akvarel</url>
     <price>437</price>
     <currencyId>BYN</currencyId>
@@ -524,9 +486,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="40">
+  <offer id="40" available="true">
     <url>https://doliana-cveti.by/product/buket-shepot-lyubvi</url>
     <price>437</price>
     <currencyId>BYN</currencyId>
@@ -537,9 +498,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="41">
+  <offer id="41" available="true">
     <url>https://doliana-cveti.by/product/buket-severnoe-siyanie</url>
     <price>77</price>
     <currencyId>BYN</currencyId>
@@ -550,9 +510,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="42">
+  <offer id="42" available="true">
     <url>https://doliana-cveti.by/product/buket-sladkaya-garmoniya</url>
     <price>65</price>
     <currencyId>BYN</currencyId>
@@ -563,9 +522,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="43">
+  <offer id="43" available="true">
     <url>https://doliana-cveti.by/product/diantusi-i-hrizantema</url>
     <price>124</price>
     <currencyId>BYN</currencyId>
@@ -576,9 +534,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="44">
+  <offer id="44" available="true">
     <url>https://doliana-cveti.by/product/buket-gemchugniy-svet</url>
     <price>255</price>
     <currencyId>BYN</currencyId>
@@ -589,9 +546,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="45">
+  <offer id="45" available="true">
     <url>https://doliana-cveti.by/product/buket-chuvstvo-negnosti</url>
     <price>85</price>
     <currencyId>BYN</currencyId>
@@ -602,9 +558,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="46">
+  <offer id="46" available="true">
     <url>https://doliana-cveti.by/product/buket-vdohnovenie-negnosti</url>
     <price>100</price>
     <currencyId>BYN</currencyId>
@@ -615,9 +570,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="47">
+  <offer id="47" available="true">
     <url>https://doliana-cveti.by/product/buket-tanets-lepestkov</url>
     <price>283</price>
     <currencyId>BYN</currencyId>
@@ -628,9 +582,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="48">
+  <offer id="48" available="true">
     <url>https://doliana-cveti.by/product/buket-shamomile</url>
     <price>225</price>
     <currencyId>BYN</currencyId>
@@ -641,9 +594,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="49">
+  <offer id="49" available="true">
     <url>https://doliana-cveti.by/product/buket-malvina</url>
     <price>60</price>
     <currencyId>BYN</currencyId>
@@ -654,9 +606,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="50">
+  <offer id="50" available="true">
     <url>https://doliana-cveti.by/product/buket-belosnegnaya-gratsiya</url>
     <price>85</price>
     <currencyId>BYN</currencyId>
@@ -667,9 +618,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="51">
+  <offer id="51" available="true">
     <url>https://doliana-cveti.by/product/buket-vesna</url>
     <price>158</price>
     <currencyId>BYN</currencyId>
@@ -680,9 +630,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="52">
+  <offer id="52" available="true">
     <url>https://doliana-cveti.by/product/buket-adagio</url>
     <price>55</price>
     <currencyId>BYN</currencyId>
@@ -693,9 +642,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="53">
+  <offer id="53" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-elegantnaya-garmoniya</url>
     <price>215</price>
     <currencyId>BYN</currencyId>
@@ -706,9 +654,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="54">
+  <offer id="54" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-melodiya-leta</url>
     <price>65</price>
     <currencyId>BYN</currencyId>
@@ -719,9 +666,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="55">
+  <offer id="55" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-nebesniy-aromat</url>
     <price>189</price>
     <currencyId>BYN</currencyId>
@@ -732,9 +678,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="56">
+  <offer id="56" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-vesennyaya-akvarel</url>
     <price>237</price>
     <currencyId>BYN</currencyId>
@@ -745,9 +690,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="57">
+  <offer id="57" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-romantika-v-tsvetah</url>
     <price>77</price>
     <currencyId>BYN</currencyId>
@@ -758,9 +702,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="58">
+  <offer id="58" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-potseluy-rozovogo-briza</url>
     <price>142</price>
     <currencyId>BYN</currencyId>
@@ -771,9 +714,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="59">
+  <offer id="59" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-roskosh-momenta</url>
     <price>142</price>
     <currencyId>BYN</currencyId>
@@ -784,9 +726,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="60">
+  <offer id="60" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-melodiya-chuvstv</url>
     <price>260</price>
     <currencyId>BYN</currencyId>
@@ -797,9 +738,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="61">
+  <offer id="61" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-melodiya-rassveta</url>
     <price>89</price>
     <currencyId>BYN</currencyId>
@@ -810,9 +750,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="62">
+  <offer id="62" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-dihanie-leta</url>
     <price>170</price>
     <currencyId>BYN</currencyId>
@@ -823,9 +762,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="63">
+  <offer id="63" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-blossom</url>
     <price>170</price>
     <currencyId>BYN</currencyId>
@@ -836,9 +774,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="64">
+  <offer id="64" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-sweet-rainbow</url>
     <price>122</price>
     <currencyId>BYN</currencyId>
@@ -849,9 +786,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="65">
+  <offer id="65" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-beauty-dostawka-lida</url>
     <price>160</price>
     <currencyId>BYN</currencyId>
@@ -862,9 +798,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="66">
+  <offer id="66" available="true">
     <url>https://doliana-cveti.by/product/kompozitsiya-rozoviy-rassvet</url>
     <price>680</price>
     <currencyId>BYN</currencyId>
@@ -875,9 +810,8 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
-  <offer id="67">
+  <offer id="67" available="true">
     <url>https://doliana-cveti.by/product/korzina-roskosh-vne-pravil</url>
     <price>1004</price>
     <currencyId>BYN</currencyId>
@@ -888,7 +822,6 @@
     <vendor>ДОЛИАНА</vendor>
     <delivery>true</delivery>
     <pickup>true</pickup>
-    <country_of_origin>BY</country_of_origin>
   </offer>
 </offers>
 </shop>
